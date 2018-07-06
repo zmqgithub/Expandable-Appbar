@@ -1,2 +1,8 @@
-# Expandable-Appbar
-An example of floating dialog
+# expandable_appbar
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
