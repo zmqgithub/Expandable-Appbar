@@ -1,6 +1,6 @@
 # expandable_appbar
 
-A new Flutter application.
+A new Flutter application for expandable appbar.
 
 ## Getting Started
 
