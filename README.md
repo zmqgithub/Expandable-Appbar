@@ -1,4 +1,4 @@
-# expandable_appbar
+# expandable appbar
 
 A new Flutter application for expandable appbar.
 
